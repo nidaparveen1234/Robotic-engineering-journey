@@ -20,3 +20,16 @@ Notes:
 -Set up VS Code for Python development
 -Verified Python execution using terminal
 -Implemented and tested prime list and prime check programs locally
+
+## Day 4
+-Implemented sum of digits logic
+-Used loop-based digit extraction
+
+## Day 5
+-Practiced algorithm-to-code conversion
+-Strengthened loop and condition thinking
+
+## Day 6
+-Worked with lists of numbers
+-Applied prime-check logic to each element
+-Focused on algorithmic thinking over syntax
