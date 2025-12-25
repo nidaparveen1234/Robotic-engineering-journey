@@ -33,3 +33,7 @@ Notes:
 -Worked with lists of numbers
 -Applied prime-check logic to each element
 -Focused on algorithmic thinking over syntax
+
+## Day 7
+-Applied counting pattern on lists
+-Counted palindromic numbers using condition checks
