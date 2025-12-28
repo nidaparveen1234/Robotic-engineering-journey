@@ -1,0 +1,6 @@
+Numbers =[1, 34,2434,24,2634,24,26,3934,96,39]
+for i in Numbers:
+    print(i, end=" ") 
+    
+print(Numbers[1])
+print(Numbers[-1])
