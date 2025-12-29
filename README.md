@@ -37,3 +37,13 @@ Notes:
 ## Day 7
 -Applied counting pattern on lists
 -Counted palindromic numbers using condition checks
+
+## Day 8
+-Learned list indexing and traversal
+-Practiced creating new lists from existing data
+-Strengthened array-like thinking in Python
+
+## Day 9
+-Learned to apply conditions over lists
+-Practiced counting and filtering patterns
+-Focused on single-pass algorithm thinking
