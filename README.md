@@ -47,3 +47,8 @@ Notes:
 -Learned to apply conditions over lists
 -Practiced counting and filtering patterns
 -Focused on single-pass algorithm thinking
+
+## Day 10
+-Practiced accumulator and tracker patterns
+-Implemented sum, minimum, and maximum logic using single-pass traversal
+-Strengthened loop-based decision making
