@@ -52,3 +52,10 @@ Notes:
 -Practiced accumulator and tracker patterns
 -Implemented sum, minimum, and maximum logic using single-pass traversal
 -Strengthened loop-based decision making
+
+## Day 11
+-Learned frequency counting using key–value logic
+-Built occurrence maps from lists
+-Applied comparison logic to analyze frequency data(working on them)
+
+
