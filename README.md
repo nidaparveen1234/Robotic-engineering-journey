@@ -58,4 +58,6 @@ Notes:
 -Built occurrence maps from lists
 -Applied comparison logic to analyze frequency data(working on them)
 
-
+## Day 12:
+-Identified maximum frequency element using dictionary
+-Practiced key vs value comparison logic
