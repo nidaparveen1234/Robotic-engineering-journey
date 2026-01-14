@@ -1,5 +1,5 @@
 numbers = [2,1,3,5]
-second_max= float('inf')
+second_max= float('-inf')
 max = numbers[0]
 for i in numbers:
     if i > max:
