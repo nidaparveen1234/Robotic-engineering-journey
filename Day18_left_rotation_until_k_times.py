@@ -1,16 +1,18 @@
-list = [1,2,3,4]
+list = [1,2,3,4,5,6]
 start = 0
-end = len(list)-1
-k=2
+end=len(list)-1
 rotation = 0
-i=0
-while rotation<=k:
+k=3
+while rotation< k:
     temp = list[start]
-    while i<end:
+    i=start
+    for i in range(start,end,1):
         list[i]=list[i+1]
         i+=1
-    list[end] = temp
+    list[end]=temp
     rotation+=1
 print(list)
 
-#output === [2, 3, 4, 2] ‎<This message was edited>
+# output
+# k=2 [3, 4, 5, 1, 2]
+#k = 3 [4, 5, 6, 1, 2, 3]
