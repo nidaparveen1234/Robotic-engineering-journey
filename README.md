@@ -61,3 +61,31 @@ Notes:
 ## Day 12:
 -Identified maximum frequency element using dictionary
 -Practiced key vs value comparison logic
+
+## Day 13
+-Found the minimum and second minimum elements in a list
+-Practiced safe initialization and edge case handling
+
+## Day 14
+-Reversed an entire list without using built-in functions
+-Used two-pointer technique to swap elements
+
+## Day 15
+-Reversed a list between specific start and end indices
+-Learned how partial reversal works using index boundaries
+
+## Day 16
+-Checked whether a list is a palindrome
+-Used start and end pointers to compare elements
+
+## Day 17
+-Rotated a list up to K times
+-Understood how repeated rotations affect element positions
+
+## Day 18
+-Implemented left rotation of a list
+-Practiced shifting elements using loops and temporary storage
+
+## Day 19
+-Implemented right rotation of a list
+-Fixed pointer direction issues and inner loop logic
