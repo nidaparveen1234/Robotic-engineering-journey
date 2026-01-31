@@ -89,3 +89,15 @@ Notes:
 ## Day 19
 -Implemented right rotation of a list
 -Fixed pointer direction issues and inner loop logic
+
+## Day 20:
+-Refined list rotation algorithm using k % n to avoid redundant rotations
+-Focused on algorithm design and edge cases before final implementation
+
+## Day 21:
+-Implemented left and right rotation using separate functions
+-Practiced passing lists and variables into functions and improving structure
+
+## Day 22:
+-Implemented logic to check whether a list is sorted without sorting it
+-Practiced comparing adjacent elements using a while loop and control flow
