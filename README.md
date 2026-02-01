@@ -101,3 +101,7 @@ Notes:
 ## Day 22:
 -Implemented logic to check whether a list is sorted without sorting it
 -Practiced comparing adjacent elements using a while loop and control flow
+
+## Day 23:
+-Practiced detecting duplicate elements in a list
+-Focused on logical thinking before optimization
