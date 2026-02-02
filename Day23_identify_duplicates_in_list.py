@@ -1,20 +1,26 @@
-list = [1,2,3,4,5,1]
-n =len(list)
-flag =0
+num_list = [1,2]
+size_of_list = len(num_list)
 i=0
-j=1
-while i <n-1:
-    for i in range:
-        for j in range:
-            if list[i]!=list[j]:
-                j++
-                flag = 0
-            else:
-                flag=1
-                break
-        i++
-        
+flag = 0
+for i in range(0,size_of_list-1):
+    j = i+1
+    for j in range(j,size_of_list):
+        if num_list[i] == num_list[j]:
+            flag = 1
+            break
+        else:
+            j+=1
+    i+=1
+
 if flag == 1:
-    print("duplicate")
+    print("duplica")
 else:
-    print("not duplicate")
+    print("not duplica")
+
+# output
+# [1,2,3,4,5,6,1]===duplica
+#[1,2,3,4,5,6]===not duplica
+#[1,2,3,4,4,5,6,7,1,2,3,8]===duplica
+#[1]===not duplica
+#[]===not duplica
+#[1,2]===not duplica
