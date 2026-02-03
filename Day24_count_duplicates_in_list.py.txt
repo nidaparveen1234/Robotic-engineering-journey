@@ -1,0 +1,16 @@
+1.	First, we will get a list.
+This list contains the values like 1, 2, 3, 4, 5, 6, 6.
+	2.	We will take another list (result list).
+This result list will be empty at the beginning and will store the results later.
+	3.	We will find the length of the list and store it as n.
+	4.	We will use a loop to go through each element of the list.
+The loop will run from index 0 to n so that every element is checked once.
+	5.	For each element, we will check:
+	•	If the element is already present in the result list,
+then we will increase its count by 1.
+	•	Else, if the element is not present in the result list,
+we will add that element to the result list and set its count as 1.
+	6.	This way, each value in the list is checked only one time,
+and the result list remembers how many times each value appeared.
+	7.	After the loop finishes, we will print the result list,
+which shows how many times each element appears in the original list.
