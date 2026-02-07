@@ -1,0 +1,19 @@
+1.	We take a list of numbers, for example: 5, 4, 3, 2, 1.
+	2.	Sorting is needed because sorting helps searching faster.
+	3.	We arrange the elements in ascending order.
+	4.	We use two for loops.
+	5.	The first for loop goes from the first element to the last element.
+Its main purpose is to go through the list multiple times.
+	6.	The second for loop is used to compare elements.
+	7.	The second loop compares the current element with the next element.
+	8.	First, it compares the first element and the second element.
+	9.	If the first element is greater than or equal to the second element:
+	•	Store the first element in a temporary variable.
+	•	Store the second element in the first element’s place.
+	•	Store the temporary value in the second element’s place.
+	10.	This swap continues for each adjacent pair.
+	11.	After one full pass of the second loop, the largest element moves to the end.
+	12.	The first loop repeats this process until all elements are arranged.
+	13.	The second loop runs up to one element less each time because the last elements are already sorted.
+	14.	We manually trace each pass on paper to track comparisons and swaps.
+	15.	Only the algorithm is written today, not the code.
