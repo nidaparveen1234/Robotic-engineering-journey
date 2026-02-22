@@ -1,0 +1,7 @@
+1.	Find first occurrence.
+	2.	If first occurrence == -1
+  Print not found
+	3.	Else
+  Find last occurrence
+	4.	frequency = last_index − first_index + 1
+	5.	Print frequency
