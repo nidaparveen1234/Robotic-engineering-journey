@@ -5,9 +5,9 @@ targt = 2
 result = -1
 while low <=high:
     mid = (low+high)//2
-    if num_list[mid]< targt:
+    if num_list[mid] > targt:
         high = mid - 1
-    elif num_list[mid]> targt:
+    elif num_list[mid] < targt:
         low = mid + 1
     else:
         result = mid
